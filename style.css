@@ -10,7 +10,7 @@ header {
     justify-content: space-around;
     background-color: aliceblue;
     height: 100px;
-    align-items: center; /*to bring the contents to the center vertically*/
+    align-items: center; /*to bring the contents to the center vertically */
     text-transform: capitalize;
     
 }
